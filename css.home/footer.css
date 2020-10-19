@@ -1,0 +1,31 @@
+footer{
+    width: 100%;
+}
+
+.imagenesredes{
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+    letter-spacing: 1px;
+    font-family: cursive;
+    color: white;
+    margin-top: 30px;
+    font-size: 25px;
+    padding-bottom: 35px;
+}
+ .ajusteimagenes{
+     display: inline-flex;
+     margin: 50px 35px;
+ }
+
+
+ .textofooter{
+     padding-top: 8px;
+     width: 100%;
+     font-family: cursive;
+     text-align: center;
+     color: white;
+     font-size: 18px;
+     background-color: salmon;
+     height: 100px;
+ }
